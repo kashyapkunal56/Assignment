@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>Country_South_Africa</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Country South Africa</shortDescription>
+        <value>ZA</value>
+    </labels>
+    <labels>
+        <fullName>Holiday_Calendar_API_Key</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Holiday Calendar API Key</shortDescription>
+        <value>24c5e86734eb44dc4a962826324a5546e74dc42f</value>
+    </labels>
+</CustomLabels>

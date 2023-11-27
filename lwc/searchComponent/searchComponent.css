@@ -1,0 +1,28 @@
+.message-cancel-button {
+    float: right;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1;
+    border: none;
+    background: none;
+}
+.page-message-error {
+    color: #762f2e;
+    background-color: #f2dede;
+    border-color: #ebccd1;
+    padding: 10px;
+    border-radius: 0.25rem;
+    margin-bottom: 10px;
+    padding-left: 35px;
+}
+.fontweight {
+  font-weight: 700;
+}
+.slds-text-heading_medium {
+  font-weight: 700;
+  color: #00396b;
+  font-size: 15px !important;
+}
+.align {
+  display: flex;
+}
